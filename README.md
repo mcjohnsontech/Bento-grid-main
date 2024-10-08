@@ -45,6 +45,6 @@ CSS Grid spazzed But i spazzer
 
 ## Author
 
-- Frontend Mentor - [@mcjohnson12](https://www.frontendmentor.io/profile/mcjohnsontech)
+- Frontend Mentor - [@mcjohnsontech](https://www.frontendmentor.io/profile/mcjohnsontech)
 - Twitter - [mcjohnson12](https://www.twitter.com/mcjohnson12)
 
